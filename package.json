@@ -2,6 +2,6 @@
    "description": "toolchain-xtensa-esp",
    "name": "toolchain-xtensa-esp",
    "system": "all",
-   "url": "https://github.com/espressif/crosstool-NG",
+   "url": "https://github.com/jason2866/crosstool-NG",
    "version": "5.130200.240109"
 }
